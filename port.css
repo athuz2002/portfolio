@@ -1,0 +1,53 @@
+#thumbs{
+    height: 200px;
+    border-radius: 190px;
+    margin-left: 150px;
+}
+body{
+    background-color: rgb(34, 35, 36);
+}
+.c1{
+    font-family: 'Lobster', sans-serif;
+font-family: 'Young Serif', serif;
+}
+.b1{
+    font-family: 'Lobster', sans-serif;
+    font-family: 'Young Serif', serif;
+}
+#thumbs{
+    height: 200px;
+    border-radius: 190px;
+    margin-left: 150px;
+}
+.a1{
+    font-family: 'Lobster', sans-serif;
+    font-family: 'Young Serif', serif;
+    
+}
+hr{
+    color: white;
+}
+.parent{
+    margin-top: 40px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+ }
+ .d{
+    border: 1px black solid;
+    height: 330px;
+    width: 245px;
+    background-color: rgb(204, 202, 202);
+    transition: .7s;
+ }
+ .d:hover{
+    background-color: rgb(204, 202, 202);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.06);
+}
+ .d5{
+    width: 100%;
+    height: 125px;
+    margin:0px;
+ }

@@ -1,0 +1,71 @@
+
+/* .t1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+} */
+.ol{
+    border: 18px transparent solid;
+    width: 100px;
+    height: 150px;
+    
+}
+.q5{
+   
+    background-color:rgba(255, 255, 255, 0.207);
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-top: 74px;
+}
+
+.ol{
+    width: 400px;
+    height: 454px;
+    border: 6px black solid;
+    background-color: black;
+    color: white;
+    
+
+}
+img{
+    width: 100%;
+    height: 200px;
+}
+.P1{
+    background-color:black;
+    color: white;
+    height: 100px;
+    text-align: center;
+    padding-top: 5px;
+    font-size: larger;
+    font-family: 'Dancing Script', cursive;
+}
+H2{
+    font-family: 'Dancing Script', cursive;
+}
+.z1{
+    font-family: 'Dancing Script', cursive;
+    border: 2px white solid;
+width: 100px;
+height: 43px;
+margin-left: 140px;
+}
+button{
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 60px;
+    height: 36px;
+    width: 106px;
+}
+.b1{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.207);
+    margin-top: 60px;
+    padding-top: 10px;
+    font-family: 'Dancing Script', cursive;
+    font-size: xx-large
+}
